@@ -1,16 +1,5 @@
-# mvvm_flutter
+# Number Trivia
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![preview-1](./Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-10-18%20at%2013.04.28.png)
+![preview-2](./Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-10-18%20at%2013.04.35.png)
+![preview-3](./Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-10-18%20at%2013.04.44.png)
